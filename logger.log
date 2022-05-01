@@ -1,0 +1,221 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:10:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:10:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:11:00] "[33mGET /ssearch?s=пїЅпїЅпїЅ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:30] "[33mGET /ssearch?s=пїЅпїЅпїЅ HTTP/1.1[0m" 404 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:43] "GET /search?s=пїЅпїЅпїЅ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:53] "GET /search?s=пїЅпїЅпїЅпїЅ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:14:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:15:03] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:15:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:15:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:15:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:15:14] "GET /search?s=пїЅпїЅпїЅпїЅ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:15:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:15:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2022 02:15:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:42:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:42:58] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:42:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:01] "GET /search?s=пїЅпїЅпїЅ HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:06] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:17] "GET /search?s=пїЅпїЅпїЅпїЅ HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 08:43:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:33] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:40] "GET /search?s=пїЅпїЅпїЅ HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:45] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:08:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:11:00] "GET /search?s=df HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:11:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:11:03] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:11:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:24:47] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:24:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:24:54] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:24:55] "GET /post HTTP/1.1" 200 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:25:15] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:25:17] "GET /post HTTP/1.1" 200 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:25:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:25:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:48:52] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:48:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:49:00] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:49:03] "GET /post HTTP/1.1" 200 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:49:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 09:49:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:18:41] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:18:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:06] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:06] "GET /uploads/images/8%20march.jpg HTTP/1.1" 200 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:10] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:10] "[36mGET /uploads/images/8%20march.jpg HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:31] "GET /search?s=пїЅпїЅпїЅпїЅпїЅ HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:31] "[36mGET /uploads/images/8%20march.jpg HTTP/1.1[0m" 304 -
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:19:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:49:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:49:24] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:49:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:51:51] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:51:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:51:52] "GET /uploads/images/erevan-armenia.jpg HTTP/1.1" 200 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:51:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:51:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:51:59] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:51:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:51:59] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:17] "GET /search?s=ере HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:17] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:26] "GET /search?s=ереван HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:26] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 10:52:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:42:14] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:42:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /post [POST]
+Traceback (most recent call last):
+  File "C:\Users\armen\Desktop\Python\Дом.зад\lesson12_project_source_v3\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\armen\Desktop\Python\Дом.зад\lesson12_project_source_v3\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\armen\Desktop\Python\Дом.зад\lesson12_project_source_v3\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\armen\Desktop\Python\Дом.зад\lesson12_project_source_v3\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\armen\Desktop\Python\lesson12_project_source_v3\loader\views.py", line 25, in new_post_upload_page
+    new_picture = save_uploaded_picture(picture)
+  File "C:\Users\armen\Desktop\Python\lesson12_project_source_v3\functions.py", line 34, in save_uploaded_picture
+    raise WrongImgType(f"Не верный формат файла, допустимые форматы {', '.join(all_type)}")  # вызывает ошибку
+exceptions.WrongImgType: Не верный формат файла, допустимые форматы jmg, png, gif, jpeg
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:44:27] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:03] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:03] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:15] "GET /search?s=ут HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:21] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
