@@ -1,4 +1,5 @@
-from flask import Flask, render_template, send_from_directory
+from flask import Flask, send_from_directory
+
 from main.views import main_blueprint  # Импортируем блюпринты из их пакета
 from loader.views import loader_blueprint  # Импортируем блюпринты из их пакета
 

@@ -1,6 +1,7 @@
 import logging
 from flask import render_template, request, Blueprint  # Добавим импорт шаблонизатора
-from functions import *  # импорт функций
+
+from functions import get_posts, save_uploaded_picture, add_post  # импорт функций
 from comfig import POST_PATH  # путь на Json-файл и к папке с картинками
 
 loader_blueprint = Blueprint('loader_blueprint', __name__, template_folder='templates')  # настройка папки с шаблонами

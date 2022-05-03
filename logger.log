@@ -219,3 +219,149 @@ INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:21] "[36mGET /static/style.c
 INFO:root:Открытие главной страницы
 INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:24] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:192.168.0.136 - - [01/May/2022 11:45:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:55:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:55:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:55:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:02] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:02] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:13] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:20] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:33] "GET /search?s=ереван HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:33] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:37] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:46] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:58] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:56:58] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:57:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:57:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:57:34] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:57:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:57:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:57:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:57:48] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:57:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:57:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:57:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:04] "GET /search?s=ерев HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:04] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:18] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:29] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [01/May/2022 17:58:29] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:14] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:14] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:26] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:30] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:51:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:59:40] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:59:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:59:40] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:59:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:59:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:59:55] "GET /search?s=тарелк HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:59:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:59:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 14:59:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:00:03] "GET /search?s=ереван HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:00:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:00:03] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:00:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:00:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:00:07] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:00:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Данные не загружены
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:00:14] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:00:16] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:08:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:08:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:08:01] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:08:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:08:01] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -

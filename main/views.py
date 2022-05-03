@@ -1,8 +1,9 @@
 import logging  # импорт журнала ошибок
 from flask import render_template, request, Blueprint  # импорт шаблонизатора
+
 from functions import get_posts, content_for_the_posts  # импорт функций
 from comfig import POST_PATH  # импорт константы (путь на Json-файл)
-from exceptions import *  # импорт класса ошибок
+from exceptions import DataJsonError  # импорт модуль с классами ошибок
 
 main_blueprint = Blueprint('main_blueprint', __name__, template_folder='templates')  # настройка папки с шаблонами
 logging.basicConfig(filename='logger.log', level=logging.INFO)  # для записей действий
