@@ -5,7 +5,7 @@ from functions import get_posts, save_uploaded_picture, add_post  # импорт
 from comfig import POST_PATH  # путь на Json-файл и к папке с картинками
 
 loader_blueprint = Blueprint('loader_blueprint', __name__, template_folder='templates')  # настройка папки с шаблонами
-logging.basicConfig(filename='logger.log', level=logging.INFO)  # для записей действий
+logging.basicConfig(filename='logger.log', level=logging.INFO, encoding='UTF-8')  # для записей действий
 
 
 @loader_blueprint.route("/post", methods=["GET"])  # по запросу просто открывает страницу

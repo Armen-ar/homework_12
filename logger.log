@@ -365,3 +365,172 @@ INFO:root:����������� ����� �� ���������
 INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:08:01] "GET /search?s= HTTP/1.1" 200 -
 INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:08:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:192.168.0.136 - - [03/May/2022 15:08:01] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:50:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:50:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:50:52] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:50:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:50:52] "[36mGET /uploads/images/erevan-armenia.jpg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:51:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:51:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:51:08] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:51:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:51:14] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:51:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:51:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [09/May/2022 23:51:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [15/May/2022 20:36:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [15/May/2022 20:36:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [15/May/2022 20:36:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [15/May/2022 20:36:47] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [15/May/2022 20:36:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:13:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:13:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:13:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:13:30] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:13:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:13:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:13:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:13:35] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:13:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:14:01] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:14:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:14:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:14:22] "[33mPOST /api HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.136 - - [24/May/2022 20:14:27] "[33mPOST /api/ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [25/May/2022 11:27:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2022 11:27:05] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2022 11:27:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:127.0.0.1 - - [25/May/2022 11:27:10] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2022 11:27:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 23:43:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 23:43:05] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 23:43:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 23:43:13] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2022 23:43:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:53:45] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:53:45] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:53:45] "GET /uploads/images/erevan-armenia.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:53:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:53:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:53:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:53:58] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:53:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:54:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:54:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:54:45] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2022 21:54:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:12] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:15] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:26] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:34] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:21:34] "GET /uploads/images/erevan-armenia.jpg HTTP/1.1" 200 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:22:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2022 18:22:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [12/Aug/2022 14:53:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [12/Aug/2022 14:53:33] "GET /static/style.css HTTP/1.1" 200 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [12/Aug/2022 14:53:38] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [12/Aug/2022 14:53:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [12/Aug/2022 14:58:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [12/Aug/2022 14:58:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [12/Aug/2022 14:58:06] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [12/Aug/2022 14:58:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [12/Aug/2022 14:58:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [12/Aug/2022 14:58:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.136:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Открытие главной страницы
+INFO:werkzeug:192.168.0.136 - - [13/Aug/2022 10:43:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [13/Aug/2022 10:43:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.136 - - [13/Aug/2022 10:43:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Выполняется поиск по вхождению
+INFO:werkzeug:192.168.0.136 - - [13/Aug/2022 10:43:22] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.136 - - [13/Aug/2022 10:43:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -

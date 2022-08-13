@@ -6,7 +6,7 @@ from comfig import POST_PATH  # импорт константы (путь на J
 from exceptions import DataJsonError  # импорт модуль с классами ошибок
 
 main_blueprint = Blueprint('main_blueprint', __name__, template_folder='templates')  # настройка папки с шаблонами
-logging.basicConfig(filename='logger.log', level=logging.INFO)  # для записей действий
+logging.basicConfig(filename='logger.log', level=logging.INFO, encoding='UTF-8')  # для записей действий
 
 
 @main_blueprint.route("/")
