@@ -14,7 +14,7 @@ def get_posts(path):
         raise DataJsonError
 
 
-def content_for_the_posts(posts, substring):
+def content_for_the_posts(posts: dict, substring: str) -> list:
     """Функция распаковывает словари и выводит
      Картинку и текст по вхождению"""
     posts_list = []
@@ -31,14 +31,14 @@ def save_uploaded_picture(picture):
     allowed_img_types = ["jmg", "png", "gif", "jpeg"]  # список допустимого формата файла
     picture_type = picture.filename.split('.')[-1]  # разбивает строку на подстроки по точке и берёт последний элемент
     if picture_type not in allowed_img_types:  # элемент не входит в перечень списка
-        raise WrongImgType(f"Не верный формат файла, допустимые форматы {', '.join(all_type)}")  # вызывает ошибку
+        raise WrongImgType(f"Не верный формат файла, допустимые форматы {', '.join(allowed_img_types)}")
     picture_path = f"{UPLOAD_FOLDER}/{picture.filename}"  # картинка и путь в папку, куда нужно сохранить
     picture.save(picture_path)  # метод save сохраняет картинку в указанную папку
 
     return picture_path
 
 
-def add_post(post_list, post):
+def add_post(post_list: list, post: list):
     """Функция принимает аргумент файл, проверяет
     Тип файла и допустимый сохраняет в указанную папку"""
     post_list.append(post)  # записывает новый пост в список постов
